@@ -1,0 +1,11 @@
+{
+  "name": "Access Agriculture",
+  "icons": [
+    {
+      "src": "icon/icon.png",
+      "sizes": "300x300",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": "package:tv.digisoft.accessagriculture"
+}
